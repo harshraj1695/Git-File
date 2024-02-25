@@ -1,7 +1,7 @@
 # Git-File
 ## Overview
 
-This repository is dedicated to conducting and documenting various experiments related to [Your Project Name]. Each experiment is designed to test specific hypotheses, gather data, and make informed decisions to improve the project.
+This repository is dedicated to conducting and documenting various experiments related to Git and Github. Each experiment is designed to test specific hypotheses, gather data, and make informed decisions to improve the project.
 ## Experiment 1: Git Installation and Repository Creation
 
 **Objective:**
